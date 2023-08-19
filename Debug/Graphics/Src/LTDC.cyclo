@@ -1,0 +1,7 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:1704:22:LL_APB2_GRP1_EnableClock	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	1
+../Graphics/Src/LTDC.c:15:6:MX_LTDC_Init	4
+../Graphics/Src/LTDC.c:93:6:LTDC_draw_rectangle	4
+../Graphics/Src/LTDC.c:136:7:LTDC_draw_filled_rectangle	4
+../Graphics/Src/LTDC.c:175:6:LTDC_put_string	128
+../Graphics/Src/LTDC.c:707:6:LTDC_font_select	6

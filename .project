@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AS_debug_machine_s10</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.st.stm32cube.ide.mcu.MCUProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUCubeProjectNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUCubeIdeServicesRevAev2ProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUAdvancedStructureProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUSingleCpuProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCURootProjectNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Screens</name>
+			<type>2</type>
+			<location>C:/Users/Midhun Kumar/Midhun Kumar/Embedde_System_Engineering/Projects/My_Projects/STM32 Cube IDE/AS_debug_machine_s10/App/Screens</location>
+		</link>
+		<link>
+			<name>Graphics/Src/BritannicBold18pts.c</name>
+			<type>1</type>
+			<location>C:/Users/Midhun Kumar/Midhun Kumar/Embedde_System_Engineering/Projects/My_Projects/STM32 Cube IDE/stm32F429Zi RGB LCD/Fonts/Src/BritannicBold18pts.c</location>
+		</link>
+		<link>
+			<name>Graphics/Src/CenturyGothic18pts.c</name>
+			<type>1</type>
+			<location>C:/Users/Midhun Kumar/Midhun Kumar/Embedde_System_Engineering/Projects/My_Projects/STM32 Cube IDE/stm32F429Zi RGB LCD/Fonts/Src/CenturyGothic18pts.c</location>
+		</link>
+		<link>
+			<name>Graphics/Src/TimesNewRoman18pts_Bold.c</name>
+			<type>1</type>
+			<location>C:/Users/Midhun Kumar/Midhun Kumar/Embedde_System_Engineering/Projects/My_Projects/STM32 Cube IDE/stm32F429Zi RGB LCD/Fonts/Src/TimesNewRoman18pts_Bold.c</location>
+		</link>
+		<link>
+			<name>Graphics/Src/TimesNewRoman48pts.c</name>
+			<type>1</type>
+			<location>C:/Users/Midhun Kumar/Midhun Kumar/Embedde_System_Engineering/Projects/My_Projects/STM32 Cube IDE/stm32F429Zi RGB LCD/Fonts/Src/TimesNewRoman48pts.c</location>
+		</link>
+		<link>
+			<name>Graphics/Src/TimesNewRoman8pts_Bold.c</name>
+			<type>1</type>
+			<location>C:/Users/Midhun Kumar/Midhun Kumar/Embedde_System_Engineering/Projects/My_Projects/STM32 Cube IDE/stm32F429Zi RGB LCD/Fonts/Src/TimesNewRoman8pts_Bold.c</location>
+		</link>
+		<link>
+			<name>Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h</name>
+			<type>1</type>
+			<location>C:/Users/Midhun Kumar/Midhun Kumar/Embedde_System_Engineering/Projects/My_Projects/STM32 Cube IDE/stm32F429Zi RGB LCD/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_spi.h</location>
+		</link>
+		<link>
+			<name>Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_spi.c</name>
+			<type>1</type>
+			<location>C:/Users/Midhun Kumar/Midhun Kumar/Embedde_System_Engineering/Projects/My_Projects/STM32 Cube IDE/stm32F429Zi RGB LCD/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_spi.c</location>
+		</link>
+	</linkedResources>
+</projectDescription>

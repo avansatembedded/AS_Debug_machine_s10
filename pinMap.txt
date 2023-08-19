@@ -1,0 +1,87 @@
+
+-----------------------------------------------------------------------------------
+
+*******************  LCD **************************************************
+LCD_HSYNC 	- PC6
+LCD_VSYNC 	- PA4
+LCD_CLK   	- PG7
+LCD_BUSY        - PE2
+LCD_IRQ         - PA14
+LCD_DE 		- PF10
+LCD_BL 		- PG3
+
+LCD_B2 		- PD6
+LCD_B3 		- PG11
+LCD_B4 		- PG12
+LCD_B5 		- PA3
+LCD_B6 		- PB8
+LCD_B7 		- PB9
+
+
+LCD_G2 		- PA6
+LCD_G3 		- PG10
+LCD_G4 		- PB10
+LCD_G5 		- PB11
+LCD_G6 		- PC7
+LCD_G7 		- PD3
+
+LCD_R2 		- PC10
+LCD_R3 		- PB0
+LCD_R4 		- PA11
+LCD_R5 		- PA12
+LCD_R6		- PB1
+LCD_R7		- PG6
+
+******************* LCD Touch pad *******************************************
+TOUCH_NSS       - PA15
+TOUCH_SCK       - PA5
+TOUCH_MOSI      - PA7 
+TOUCH_MISO      - PB4
+
+
+
+
+*******************  SDRAM **************************************************
+A0              -  PF0
+A1              -  PF1
+A2              -  PF2
+A3              -  PF3
+A4              -  PF4
+A5              -  PF5 
+A6              -  PF12
+A7              -  PF13
+A8              -  PF14
+A9              -  PF15
+A10             -  PG0
+A11             -  PG1
+
+SDNWE        	-  PC0
+SDNRAS       	-  PF11
+SDNCAS       	-  PG15
+CKEN1        	-  PB5
+SDEN1        	-  PB6
+NBL0          	-  PE0
+NBL1          	-  PE1
+BA0           	-  PG4
+BA1          	-  PG5
+SDCLK           -  PG8
+D0		-  PD14
+D1		-  PD15
+D2		-  PD0
+D3		-  PD1
+D4  		-  PE7
+D5		-  PE8
+D6  		-  PE9
+D7  		-  PE10
+D8  		-  PE11
+D9  		-  PE12
+D10 		-  PE13
+D11 		-  PE14
+D12 		-  PE15
+D13		-  PD8
+D14		-  PD9
+D15		-  PD10
+
+
+
+

@@ -1,0 +1,2 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:984:22:LL_AHB3_GRP1_EnableClock	24	static
+../Core/Src/FMC_SDRAM.c:12:7:MX_FMC_Init	128	static
